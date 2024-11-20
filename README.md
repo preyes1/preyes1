@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paolo! <br/><a href="https://www.linkedin.com/in/paolomreyes/">Computer Networking Student</a>
+<h1>👋 Hey, I'm Paolo!<br/><a href="https://www.linkedin.com/in/paolomreyes/">Computer Networking Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
