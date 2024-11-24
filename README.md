@@ -2,7 +2,7 @@
 
 <h2>📝 Certifications:</h2>
 
-- <b>ISC2 CC</b>
+- <b>ISC2 Certified in Cybersecurity (CC)</b>
   - https://www.credly.com/badges/ae713cdc-90a4-44d1-816c-31bc7269fa02
 
 <h2>🔐 Cybersecurity Projects:</h2>
