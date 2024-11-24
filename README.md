@@ -1,5 +1,15 @@
 <h1>👋 Hey, I'm Paolo!<br/><a href="https://www.linkedin.com/in/paolomreyes/">Computer Networking Student</a>
 
+<h2>📝 Certifications:</h2>
+
+- <b>ISC2 CC</b>
+  - https://www.credly.com/badges/ae713cdc-90a4-44d1-816c-31bc7269fa02
+
+<h2>🔐 Cybersecurity Projects:</h2>
+
+- <b>Encryptfy</b>: AES-128 encryption and decryption web app
+  - https://github.com/preyes1/Encryptfy
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>momentum - To-Do List+</b>
