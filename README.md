@@ -9,6 +9,11 @@
 
 - <b>Encryptfy</b>: AES-128 encryption and decryption web app
   - https://github.com/preyes1/Encryptfy
+
+<h2>🌐 Networking Projects:</h2>
+
+- <b>Multi-Site Subnet Architecture</b>: Advanced Switching and Routing Final Project
+  - https://github.com/preyes1/Networking-Final-Project
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
